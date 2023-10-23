@@ -1,0 +1,4 @@
+flask:
+
+render_template: used to display a template for example form.html in app.py file 
+reguest: used to get data from the file or form for example getting marks of maths entered in the form.html
